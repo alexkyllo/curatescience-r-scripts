@@ -1,0 +1,9 @@
+Package: curatesciencerscripts
+Title: CurateScience R Scripts
+Version: 0.1
+Authors@R: person("Alex", "Kyllo", email = "alex.kyllo@gmail.com",
+                  role = c("aut", "cre"))
+Description: Store user R scripts for uploading to opencpu server
+Depends: R (>= 3.1.0)
+License: MIT
+LazyData: true
